@@ -1,0 +1,3 @@
+>D10845.1 Capra hircus SRY gene, conserved motif, partial sequence
+>D10847.1 Ovis ovis SRY gene, conserved motif, partial sequence
+>AY179745.1 Ursus maritimus isolate PBX2818 SRY (SRY) gene, partial cds
