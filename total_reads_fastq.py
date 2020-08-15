@@ -1,7 +1,7 @@
 # Finding total number of reads in a fastq file
-# Type "python average_read_length_fastq.py -i Path of your fastq file" for running the code
-# Example: python average_read_length_fastq.py -i C:\Users\dell\Desktop\test\sample_fastq.fastq
-# Type "python average_read_length_fastq.py -h" for help/usage description
+# Type "python total_reads_fastq.py -i Path of your fastq file" for running the code
+# Example: python total_reads_fastq.py -i C:\Users\dell\Desktop\test\sample_fastq.fastq
+# Type "python total_reads_fastq.py for help/usage description
 # Output: Total number of the reads in a fastq file
 # Sample input file: sample_fastq.fastq
 
